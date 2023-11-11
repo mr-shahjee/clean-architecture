@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QD7iAoDgXM5emm+YeEIlfGoR3RaNF3LkTYMGbhCwKtDArLYd0eAyhs3OssrSPUakSwUDKYh4sgNU8N4KcG6D8Q==",
+  "dgSpecHash": "Zi0ptJq7zLJjN5bM+6U1o1WEphFoo7rFx5/yMFChMRzgB3S1svuv2jXJAKJdvZTONvzupYCPeFNzTwCZaLtp6g==",
   "success": true,
   "projectFilePath": "E:\\clean-architecture\\Persistance\\Persistance.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdullah Shah\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Abdullah Shah\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Abdullah Shah\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

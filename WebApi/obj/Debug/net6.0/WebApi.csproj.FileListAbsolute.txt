@@ -30,3 +30,46 @@ C:\Users\Abdullah Shah\source\repos\Clean Architecture\WebApi\obj\Debug\net6.0\r
 C:\Users\Abdullah Shah\source\repos\Clean Architecture\WebApi\obj\Debug\net6.0\WebApi.pdb
 C:\Users\Abdullah Shah\source\repos\Clean Architecture\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 C:\Users\Abdullah Shah\source\repos\Clean Architecture\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\clean-architecture\WebApi\bin\Debug\net6.0\appsettings.json
+E:\clean-architecture\WebApi\bin\Debug\net6.0\WebApi.exe
+E:\clean-architecture\WebApi\bin\Debug\net6.0\WebApi.deps.json
+E:\clean-architecture\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+E:\clean-architecture\WebApi\bin\Debug\net6.0\WebApi.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\WebApi.pdb
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Application.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Domain.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Infrastructure.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Persistance.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Application.pdb
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Infrastructure.pdb
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Persistance.pdb
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Domain.pdb
+E:\clean-architecture\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+E:\clean-architecture\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\clean-architecture\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+E:\clean-architecture\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+E:\clean-architecture\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+E:\clean-architecture\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\clean-architecture\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\clean-architecture\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\clean-architecture\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+E:\clean-architecture\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\clean-architecture\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\clean-architecture\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\clean-architecture\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\clean-architecture\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\clean-architecture\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+E:\clean-architecture\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+E:\clean-architecture\WebApi\obj\Debug\net6.0\WebApi.dll
+E:\clean-architecture\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+E:\clean-architecture\WebApi\obj\Debug\net6.0\WebApi.pdb
+E:\clean-architecture\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+E:\clean-architecture\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\MediatR.dll
+E:\clean-architecture\WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
