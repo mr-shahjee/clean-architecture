@@ -9,3 +9,15 @@ E:\clean-architecture\Domain\obj\Debug\net6.0\Domain.dll
 E:\clean-architecture\Domain\obj\Debug\net6.0\refint\Domain.dll
 E:\clean-architecture\Domain\obj\Debug\net6.0\Domain.pdb
 E:\clean-architecture\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Abdullah Working\Clean Architecture\clean-architecture\Domain\bin\Debug\net6.0\Domain.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Abdullah Working\Clean Architecture\clean-architecture\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Abdullah Working\Clean Architecture\clean-architecture\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdullah Working\Clean Architecture\clean-architecture\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Abdullah Working\Clean Architecture\clean-architecture\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Abdullah Working\Clean Architecture\clean-architecture\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Abdullah Working\Clean Architecture\clean-architecture\Domain\obj\Debug\net6.0\Domain.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Abdullah Working\Clean Architecture\clean-architecture\Domain\obj\Debug\net6.0\ref\Domain.dll
