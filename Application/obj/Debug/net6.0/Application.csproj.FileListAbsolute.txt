@@ -13,3 +13,18 @@ E:\clean-architecture\Application\obj\Debug\net6.0\Application.dll
 E:\clean-architecture\Application\obj\Debug\net6.0\refint\Application.dll
 E:\clean-architecture\Application\obj\Debug\net6.0\Application.pdb
 E:\clean-architecture\Application\obj\Debug\net6.0\ref\Application.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\bin\Debug\net6.0\Application.deps.json
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\bin\Debug\net6.0\Application.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\bin\Debug\net6.0\Application.pdb
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\bin\Debug\net6.0\Domain.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\bin\Debug\net6.0\Domain.pdb
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\obj\Debug\net6.0\Application.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\obj\Debug\net6.0\refint\Application.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\obj\Debug\net6.0\Application.pdb
+D:\Abdullah Working\Clean Architecture\clean-architecture\Application\obj\Debug\net6.0\ref\Application.dll

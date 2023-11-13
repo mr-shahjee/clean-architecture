@@ -15,3 +15,22 @@ E:\clean-architecture\Persistance\obj\Debug\net6.0\Persistance.pdb
 E:\clean-architecture\Persistance\obj\Debug\net6.0\ref\Persistance.dll
 E:\clean-architecture\Persistance\bin\Debug\net6.0\Domain.dll
 E:\clean-architecture\Persistance\bin\Debug\net6.0\Domain.pdb
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\bin\Debug\net6.0\Persistance.deps.json
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\bin\Debug\net6.0\Persistance.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\bin\Debug\net6.0\Persistance.pdb
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\bin\Debug\net6.0\Application.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\bin\Debug\net6.0\Domain.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\bin\Debug\net6.0\Application.pdb
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\bin\Debug\net6.0\Domain.pdb
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\obj\Debug\net6.0\Persistance.csproj.CopyComplete
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\obj\Debug\net6.0\Persistance.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\obj\Debug\net6.0\Persistance.pdb
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+D:\Abdullah Working\Clean Architecture\clean-architecture\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
