@@ -11,6 +11,9 @@ namespace Persistance.Context
         }
 
         public DbSet<Patient> Patients {get; set;}
-
+        public async Task<int> SaveChangesAsync()
+        {
+            return await base.SaveChangesAsync();
+        }
     }
 }

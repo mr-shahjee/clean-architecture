@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "72CyTJA83u0rzwh09FhSxU6vz/BtY0zJsMwWorjMIufgiBIYFqG71GHW1rC0Ci+MDpUOAvbfkLHGdrvKPW+apQ==",
+  "dgSpecHash": "wlBnDl+u/qKsjxsFVTKEMAnaTqO+YuAgrlxYQR53KaE97yn+8eaGoVzzN5Aa9ujsOCSKJNLzJvgs1YfUv0mfOA==",
   "success": true,
-  "projectFilePath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "E:\\clean-architecture\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdullah Shah\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\Abdullah Shah\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

@@ -33,23 +33,5 @@ namespace Application.Features.Patient.Queries
         }
     }
 
-    public class Patient
-    {
-        public string Name { get; set; }
-        public string Description { get; set; }
-        public Decimal Rate { get; set; }
-    }
-    public class Patient
-    {
-        public string Name { get; set; }
-        public string Description { get; set; }
-        public Decimal Rate { get; set; }
-    }
-    public class Patient
-    {
-        public string Name { get; set; }
-        public string Description { get; set; }
-        public Decimal Rate { get; set; }
-    }
-
+  
 }
