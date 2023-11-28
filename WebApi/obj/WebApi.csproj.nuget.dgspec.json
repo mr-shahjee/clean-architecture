@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "E:\\clean-architecture\\WebApi\\WebApi.csproj": {}
+    "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "E:\\clean-architecture\\Application\\Application.csproj": {
+    "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\clean-architecture\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "E:\\clean-architecture\\Application\\Application.csproj",
+        "projectPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Abdullah Shah\\.nuget\\packages\\",
-        "outputPath": "E:\\clean-architecture\\Application\\obj\\",
+        "outputPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Abdullah Shah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Abdullah Shah\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\clean-architecture\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\clean-architecture\\Domain\\Domain.csproj"
+              "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Domain\\Domain.csproj"
               }
             }
           }
@@ -48,6 +46,10 @@
               "target": "Package",
               "version": "[12.1.1, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[7.0.0, )"
@@ -59,8 +61,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -69,28 +70,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\clean-architecture\\Domain\\Domain.csproj": {
+    "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\clean-architecture\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\clean-architecture\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Abdullah Shah\\.nuget\\packages\\",
-        "outputPath": "E:\\clean-architecture\\Domain\\obj\\",
+        "outputPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Abdullah Shah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Abdullah Shah\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -114,8 +113,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -124,36 +122,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\clean-architecture\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\clean-architecture\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "E:\\clean-architecture\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Abdullah Shah\\.nuget\\packages\\",
-        "outputPath": "E:\\clean-architecture\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Abdullah Shah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Abdullah Shah\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\clean-architecture\\Application\\Application.csproj": {
-                "projectPath": "E:\\clean-architecture\\Application\\Application.csproj"
+              "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Application\\Application.csproj": {
+                "projectPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Application\\Application.csproj"
               }
             }
           }
@@ -173,8 +169,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -183,36 +178,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\clean-architecture\\Persistance\\Persistance.csproj": {
+    "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Persistance\\Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\clean-architecture\\Persistance\\Persistance.csproj",
+        "projectUniqueName": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Persistance\\Persistance.csproj",
         "projectName": "Persistance",
-        "projectPath": "E:\\clean-architecture\\Persistance\\Persistance.csproj",
+        "projectPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Persistance\\Persistance.csproj",
         "packagesPath": "C:\\Users\\Abdullah Shah\\.nuget\\packages\\",
-        "outputPath": "E:\\clean-architecture\\Persistance\\obj\\",
+        "outputPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Abdullah Shah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Abdullah Shah\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\clean-architecture\\Application\\Application.csproj": {
-                "projectPath": "E:\\clean-architecture\\Application\\Application.csproj"
+              "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Application\\Application.csproj": {
+                "projectPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Application\\Application.csproj"
               }
             }
           }
@@ -254,8 +247,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -264,42 +256,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\clean-architecture\\WebApi\\WebApi.csproj": {
+    "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\clean-architecture\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "E:\\clean-architecture\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Abdullah Shah\\.nuget\\packages\\",
-        "outputPath": "E:\\clean-architecture\\WebApi\\obj\\",
+        "outputPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Abdullah Shah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Abdullah Shah\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\clean-architecture\\Application\\Application.csproj": {
-                "projectPath": "E:\\clean-architecture\\Application\\Application.csproj"
+              "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Application\\Application.csproj": {
+                "projectPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Application\\Application.csproj"
               },
-              "E:\\clean-architecture\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "E:\\clean-architecture\\Infrastructure\\Infrastructure.csproj"
+              "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Infrastructure\\Infrastructure.csproj"
               },
-              "E:\\clean-architecture\\Persistance\\Persistance.csproj": {
-                "projectPath": "E:\\clean-architecture\\Persistance\\Persistance.csproj"
+              "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Persistance\\Persistance.csproj": {
+                "projectPath": "D:\\Abdullah Working\\Clean Architecture\\clean-architecture\\Persistance\\Persistance.csproj"
               }
             }
           }
@@ -337,8 +327,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -350,7 +339,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
