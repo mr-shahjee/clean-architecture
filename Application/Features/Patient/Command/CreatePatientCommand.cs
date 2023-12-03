@@ -1,4 +1,6 @@
 ﻿using Application.Interfaces;
+using AutoMapper;
+using Domain.Entities;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -21,21 +23,25 @@ namespace Application.Features.Product.Command
 
     internal class CreateProductCommandHandler : IRequestHandler<CreatePatientCommand, int>
     {
+        private readonly IMapper _mapper;
         private readonly IApplicationDbContext _context;
-        public CreateProductCommandHandler(IApplicationDbContext context)
+        public CreateProductCommandHandler(IApplicationDbContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
         public async Task<int> Handle(CreatePatientCommand request, CancellationToken cancellationToken)
         {
-            var patient = new Domain.Entities.Patient();
-            patient.Name = request.Name;
-            patient.Cnic = request.Cnic;
-            patient.Gender = request.Gender;
-            patient.Age = request.Age;
-            patient.Contact = request.Contact;
-            patient.AppointmentDate = request.AppointmentDate;
-            patient.Comment = request.Comment;
+            //var patient = new Domain.Entities.Patient();
+            //patient.Name = request.Name;
+            //patient.Cnic = request.Cnic;
+            //patient.Gender = request.Gender;
+            //patient.Age = request.Age;
+            //patient.Contact = request.Contact;
+            //patient.AppointmentDate = request.AppointmentDate;
+            //patient.Comment = request.Comment;
+
+            var patient = _mapper.Map<Domain.Entities.Patient>(request);
 
             await _context.Patients.AddAsync(patient);
             await _context.SaveChangesAsync();
