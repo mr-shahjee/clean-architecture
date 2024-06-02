@@ -24,7 +24,7 @@ namespace WebApi.Controllers
             return Ok(result);
         }
 
-        [HttpGet("{Id}")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> GetPatientById(int id, CancellationToken cancellationToken)
         {
             var result = await _mediatR.Send(new GetPatientByIdQuery{Id = id}, cancellationToken);

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\application\\features\\patient\\command\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|solutionrelative:application\\features\\patient\\command\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49133C75-5950-49E4-AB7B-7038BBD27E28}|WebApi\\WebApi.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\webapi\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49133C75-5950-49E4-AB7B-7038BBD27E28}|WebApi\\WebApi.csproj|solutionrelative:webapi\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\application\\behaviors\\validationbehaviors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|solutionrelative:application\\behaviors\\validationbehaviors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sunny\\Desktop\\clean-architecture\\Persistance\\Migrations\\20240528075116_InitialMigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistance\\Migrations\\20240528075116_InitialMigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\application\\exceptions\\validationerrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|solutionrelative:application\\exceptions\\validationerrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49133C75-5950-49E4-AB7B-7038BBD27E28}|WebApi\\WebApi.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{49133C75-5950-49E4-AB7B-7038BBD27E28}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{49133C75-5950-49E4-AB7B-7038BBD27E28}|WebApi\\WebApi.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\webapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49133C75-5950-49E4-AB7B-7038BBD27E28}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\application\\features\\patient\\command\\updatepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|solutionrelative:application\\features\\patient\\command\\updatepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\application\\features\\patient\\command\\deletepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|solutionrelative:application\\features\\patient\\command\\deletepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\application\\exceptions\\apiexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|solutionrelative:application\\exceptions\\apiexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49133C75-5950-49E4-AB7B-7038BBD27E28}|WebApi\\WebApi.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49133C75-5950-49E4-AB7B-7038BBD27E28}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\application\\features\\patient\\command\\createpatientcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|solutionrelative:application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\application\\features\\patient\\queries\\getallpatientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{370B850A-758D-4643-9871-F31C116A921F}|Application\\Application.csproj|solutionrelative:application\\features\\patient\\queries\\getallpatientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DCF4D84-1672-417D-8AA2-A545A021016B}|Persistance\\Persistance.csproj|c:\\users\\sunny\\desktop\\clean-architecture\\persistance\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,27 +71,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20240528075116_InitialMigrations.cs",
-              "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Persistance\\Migrations\\20240528075116_InitialMigrations.cs",
-              "RelativeDocumentMoniker": "Persistance\\Migrations\\20240528075116_InitialMigrations.cs",
-              "ToolTip": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Persistance\\Migrations\\20240528075116_InitialMigrations.cs",
-              "RelativeToolTip": "Persistance\\Migrations\\20240528075116_InitialMigrations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ValidationErrorException.cs",
+              "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Exceptions\\ValidationErrorException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\ValidationErrorException.cs",
+              "ToolTip": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Exceptions\\ValidationErrorException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\ValidationErrorException.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T07:51:16.935Z",
+              "WhenOpened": "2024-06-02T07:37:02.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\WebApi\\appsettings.json",
-              "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-28T07:47:33.784Z",
+              "DocumentIndex": 4,
+              "Title": "UpdatePatientCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Features\\Patient\\Command\\UpdatePatientCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Patient\\Command\\UpdatePatientCommand.cs",
+              "ToolTip": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Features\\Patient\\Command\\UpdatePatientCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Patient\\Command\\UpdatePatientCommand.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:11:25.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeletePatientCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Features\\Patient\\Command\\DeletePatientCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Patient\\Command\\DeletePatientCommand.cs",
+              "ToolTip": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Features\\Patient\\Command\\DeletePatientCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Patient\\Command\\DeletePatientCommand.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowCYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:08:36.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:39:01.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\WebApi\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApi\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\WebApi\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "WebApi\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:37:02.406Z",
               "EditorCaption": ""
             },
             {
@@ -90,14 +140,14 @@
               "RelativeDocumentMoniker": "Application\\Behaviors\\ValidationBehaviors.cs",
               "ToolTip": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Behaviors\\ValidationBehaviors.cs",
               "RelativeToolTip": "Application\\Behaviors\\ValidationBehaviors.cs",
-              "ViewState": "AQIAAAoAAABAMzMzMzMLwBoAAAAQAAAA",
+              "ViewState": "AQIAABEAAAAAMzMzMzMLwB0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T16:41:11.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CreatePatientCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Features\\Patient\\Command\\CreatePatientCommandValidator.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Patient\\Command\\CreatePatientCommandValidator.cs",
@@ -105,25 +155,36 @@
               "RelativeToolTip": "Application\\Features\\Patient\\Command\\CreatePatientCommandValidator.cs",
               "ViewState": "AQIAAAYAAABgZmZmZmYkwBQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T16:26:48.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T16:26:48.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreatePatientCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Features\\Patient\\Command\\CreatePatientCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Patient\\Command\\CreatePatientCommand.cs",
-              "ToolTip": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Features\\Patient\\Command\\CreatePatientCommand.cs",
-              "RelativeToolTip": "Application\\Features\\Patient\\Command\\CreatePatientCommand.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAzAAAA",
+              "DocumentIndex": 3,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\WebApi\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\WebApi\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwC8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:25:55.8Z",
+              "WhenOpened": "2024-06-01T07:08:34.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "ApiExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Exceptions\\ApiExceptions.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\ApiExceptions.cs",
+              "ToolTip": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Exceptions\\ApiExceptions.cs",
+              "RelativeToolTip": "Application\\Exceptions\\ApiExceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:00:59.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Application\\Mappings\\MappingProfile.cs",
@@ -135,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ServiceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "Application\\ServiceExtensions.cs",
@@ -143,12 +204,11 @@
               "RelativeToolTip": "Application\\ServiceExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:25:56.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:25:56.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ServiceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Persistance\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "Persistance\\ServiceExtensions.cs",
@@ -156,12 +216,11 @@
               "RelativeToolTip": "Persistance\\ServiceExtensions.cs",
               "ViewState": "AQIAAAMAAABgZmZmZmYkwBQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:25:56.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:25:56.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "IApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Interfaces\\IApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IApplicationDbContext.cs",
@@ -173,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Persistance\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Persistance\\Context\\ApplicationDbContext.cs",
@@ -182,18 +241,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T15:25:56.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetAllPatientQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Features\\Patient\\Queries\\GetAllPatientQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Patient\\Queries\\GetAllPatientQuery.cs",
-              "ToolTip": "C:\\Users\\Sunny\\Desktop\\clean-architecture\\Application\\Features\\Patient\\Queries\\GetAllPatientQuery.cs",
-              "RelativeToolTip": "Application\\Features\\Patient\\Queries\\GetAllPatientQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:25:56.614Z"
             }
           ]
         }

@@ -1,4 +1,6 @@
-﻿using Application.Interfaces;
+﻿using Application.Exceptions;
+using Application.Interfaces;
+using Application.Wrappers;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -9,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Application.Features.Product.Command
 {
-    public class UpdatePatientCommand : IRequest<int>
+    public class UpdatePatientCommand : IRequest<ApiResponse<int>>
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -21,14 +23,14 @@ namespace Application.Features.Product.Command
         public string Comment { get; set; }
     }
 
-    internal class UpdateProductCommandHandler : IRequestHandler<UpdatePatientCommand, int>
+    internal class UpdateProductCommandHandler : IRequestHandler<UpdatePatientCommand, ApiResponse<int>>
     {
         private readonly IApplicationDbContext _context;
         public UpdateProductCommandHandler(IApplicationDbContext context)
         {
             _context = context;
         }
-        public async Task<int> Handle(UpdatePatientCommand request, CancellationToken cancellationToken)
+        public async Task<ApiResponse<int>> Handle(UpdatePatientCommand request, CancellationToken cancellationToken)
         {
 
             var patient = await _context.Patients.Where(x => x.Id == request.Id).FirstOrDefaultAsync();
@@ -44,11 +46,14 @@ namespace Application.Features.Product.Command
                 patient.Comment = request.Comment;
  
                 await _context.SaveChangesAsync();
-                return patient.Id;
+                //return patient.Id;
+                return new ApiResponse<int>(patient.Id, "Record Updated Successfully!");
+
             }
             else
             {
-                return default;
+                //return default;
+                throw new ApiExceptions("Product not found!");
             }
         }
     }

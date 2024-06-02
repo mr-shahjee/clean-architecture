@@ -1,4 +1,5 @@
 ﻿using Application.Interfaces;
+using Application.Wrappers;
 using AutoMapper;
 using Domain.Entities;
 using MediatR;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Application.Features.Product.Command
 {
-    public class CreatePatientCommand : IRequest<int>
+    public class CreatePatientCommand : IRequest<ApiResponse<int>>
     {
         public string Name {get; set;}
         public string Cnic {get; set;}
@@ -21,7 +22,7 @@ namespace Application.Features.Product.Command
         public string Comment {get; set;}
     }
 
-    internal class CreateProductCommandHandler : IRequestHandler<CreatePatientCommand, int>
+    internal class CreateProductCommandHandler : IRequestHandler<CreatePatientCommand, ApiResponse<int>>
     {
         private readonly IMapper _mapper;
         private readonly IApplicationDbContext _context;
@@ -30,7 +31,7 @@ namespace Application.Features.Product.Command
             _context = context;
             _mapper = mapper;
         }
-        public async Task<int> Handle(CreatePatientCommand request, CancellationToken cancellationToken)
+        public async Task<ApiResponse<int>> Handle(CreatePatientCommand request, CancellationToken cancellationToken)
         {
             //var patient = new Domain.Entities.Patient();
             //patient.Name = request.Name;
@@ -42,11 +43,12 @@ namespace Application.Features.Product.Command
             //patient.Comment = request.Comment;
 
             var patient = _mapper.Map<Domain.Entities.Patient>(request);
-
+             
             await _context.Patients.AddAsync(patient);
             await _context.SaveChangesAsync();
 
-            return patient.Id;
+            return new ApiResponse<int>(patient.Id, "Record Created Successfully!");
+           // return patient.Id;
         }
     }
 }
